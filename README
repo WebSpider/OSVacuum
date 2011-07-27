@@ -1,0 +1,16 @@
+Welcome to the repository for open source vacuuming!
+
+Here all the electronics, firmware and other designs are joined, resulting in a
+fully operational vacuuming robot, as an alternative to the commercial versions
+out there
+
+Main advantages ?
+
+- Versatility: Changes in behaviour are easy to implement
+- Cost: We hope to have a cheaper deisn than current commercial versions at some point :-)
+
+Initial directory layout
+
+/electronics    - Contains all that has to do with electronics, PCBs, components
+/firmware       - All the programming for electronics
+/design         - All the design files for casings etc (TODO)
